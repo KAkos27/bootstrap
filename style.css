@@ -1,0 +1,13 @@
+header,
+article,
+nav,
+section,
+footer,
+aside {
+  border: 1px solid grey;
+  padding: 4px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
